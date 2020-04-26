@@ -1,0 +1,6 @@
+name: 'RoleRestorePlugin'
+main: 'com.a2937.roleplugin.RoleRestoreMain'
+version: '0.0.4'
+author: 'Chara <Chara#6274>'
+description: 'Adds a plugin that restores roles to users when they leave and come back'
+requires: '0.7.71'
